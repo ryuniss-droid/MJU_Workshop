@@ -1,0 +1,5 @@
+{
+  "name": "AI Assistant for Designers",
+  "description": "An application that uses the Gemini API to generate a rich palette of relational keywords for design projects based on a defined project scope and a relational framework.",
+  "requestFramePermissions": []
+}
